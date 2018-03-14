@@ -1,0 +1,19 @@
+{
+  "name": "weeaboo-bot",
+  "version": "1.0.0",
+  "description": "discord brazilian bot",
+  "main": "weeaboo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fluxzy/weeaboo-bot.git"
+  },
+  "author": "Fluxzy",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/Fluxzy/weeaboo-bot/issues"
+  },
+  "homepage": "https://github.com/Fluxzy/weeaboo-bot#readme"
+}
